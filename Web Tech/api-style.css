@@ -1,0 +1,11 @@
+.button{
+    width: 30%;
+    height: 30%;
+    color: blue;
+    background-color: chartreuse;
+}
+
+div{
+    width: 100%;
+    height: fit-content;
+}
